@@ -7,3 +7,5 @@ this port has a lot of features such as:
 * vs-code type minimap
 * breadcrumbs (nvim-navbuddy, nvim-navic, barbecue)
 * lsp configs
+
+![screenshot](config-image.png)
